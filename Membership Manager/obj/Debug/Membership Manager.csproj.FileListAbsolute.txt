@@ -1,0 +1,6 @@
+E:\Programming Camp\Desktop Application Development Training\Membership Manager\Membership Manager\bin\Debug\Membership Manager.exe.config
+E:\Programming Camp\Desktop Application Development Training\Membership Manager\Membership Manager\bin\Debug\Membership Manager.exe
+E:\Programming Camp\Desktop Application Development Training\Membership Manager\Membership Manager\bin\Debug\Membership Manager.pdb
+E:\Programming Camp\Desktop Application Development Training\Membership Manager\Membership Manager\obj\Debug\Membership Manager.csprojResolveAssemblyReference.cache
+E:\Programming Camp\Desktop Application Development Training\Membership Manager\Membership Manager\obj\Debug\Membership Manager.exe
+E:\Programming Camp\Desktop Application Development Training\Membership Manager\Membership Manager\obj\Debug\Membership Manager.pdb
